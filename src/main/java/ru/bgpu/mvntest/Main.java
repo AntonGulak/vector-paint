@@ -1,4 +1,9 @@
 package ru.bgpu.mvntest;
+/**
+ * @author  Gulak Anton
+ * @version 1.0
+ * @since   2022-02-19
+ */
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
